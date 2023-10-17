@@ -45,7 +45,7 @@ Cette éxperience nous a énormement appris, tant techniquement qu'humainement. 
 
 Point de vue technique, pour les phases de **conception**, **prototypage** et **réalisation**, nous avons eu la chance d'avoir accés aux outils et ressources du **[MakerSpace](https://makerspace-amiens.fr)** de notre école.
 
-Cette année encore nous participons à l'évènement avec pour objectif l'amélioration nos solutions techniques et une meilleure place dans le classement général. L'an dernier, pour une première participation, nous sommes arrivés 40ème sur 80 équipes.
+Cette année encore nous participons à l'évènement avec pour objectif **l'amélioration de nos solutions techniques** et une **meilleure place dans le classement** général. L'an dernier, pour une première participation, nous sommes arrivés 40ème sur 80 équipes.
 
 ---
   
