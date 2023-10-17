@@ -9,7 +9,7 @@ weight = -1
 Un évènement exceptionnel, un cahier des charges stricte et 6 mois de création !
 
 <!--more-->
-{{< carousel items="1" height="400" unit="px" duration="3000" data="CDR_Carousel" >}}
+{{< carousel items="1" height="500" unit="px" duration="3000" data="CDR_Carousel" >}}
 
 ---
 
