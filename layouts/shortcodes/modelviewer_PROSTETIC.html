@@ -70,7 +70,6 @@
     }
 
     .Hotspot {
-        --min-hotspot-opacity: 50;
         background: rgb(255, 255, 255);
         border-radius: 32px;
         border: 0px;
@@ -90,7 +89,7 @@
         right: 0;
         top: 0;
         bottom: 0;
-        background-image: url("../../img/portfolio/Prostetic/poster.webp");
+        background-image: url("../../img/portfolio/prostetic/poster.webp");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -119,13 +118,28 @@
 
 <model-viewer id="lazy-load" reveal="manual" src="/models/PROTHESE.glb" ar ar-modes="webxr scene-viewer quick-look"
     camera-controls poster="poster.webp" shadow-intensity="0.63" animation-name="ArmatureAction.002" autoplay
-    shadow-softness="0.83" camera-orbit="-515deg 99.88deg 136.1m" field-of-view="30deg" auto-rotate exposure="1.36">
+    shadow-softness="0.83" camera-orbit="-95.68deg 74.62deg 139.7m" field-of-view="30deg" auto-rotate exposure="1.36">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
 
     <div id="lazy-load-poster" slot="poster"></div>
     <div id="button-load" slot="poster">Vue 3D</div>
+
+    <button class="Hotspot" slot="hotspot-1" data-surface="1 0 13595 13013 12976 0.527 0.023 0.451"
+        data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">L2</div>
+    </button><button class="Hotspot" slot="hotspot-2" data-surface="2 0 4411 3738 3700 0.224 0.497 0.279"
+        data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">L1</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-surface="3 0 1193 1198 1202 0.084 0.112 0.805"
+        data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">L4</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-surface="0 0 7654 6128 6974 0.663 0.238 0.099"
+        data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">L3</div>
+    </button>
+
 </model-viewer>
 
 <script>
