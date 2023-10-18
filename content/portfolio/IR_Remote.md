@@ -29,4 +29,34 @@ La dernière pièce du puzzle est de connecter mon ESP-01 à mon centre de contr
 ---
 
 Après prototypage, j'ai souhaité aller plus loin en m'essayant au **fraisage de PCB** (circuit imprimé).
-Une fois mon schéma électronique
+Une fois mon schéma électronique établi et rooté depuis le logiciel KiCad :
+
+![PCB](/img/portfolio/IR_REMOTE/PCB(1).png)
+![PCB](/img/portfolio/IR_REMOTE/PCB(2).png)
+
+Après quelques modifications, j'utilise une fraiseuse du **[MakerSpace](https://makerspace-amiens.fr)** de l'école.
+
+![PCB](/img/portfolio/IR_REMOTE/2023-07-21-14-45-49.png)
+![PCB](/img/portfolio/IR_REMOTE/2023-07-21-14-45-56.png)
+![PCB](/img/portfolio/IR_REMOTE/2023-07-21-14-46-02.png)
+
+Une fois le circuit assemblé et soudé, je dessine et imprime en 3D un **boitier** pour y disposer le PCB. La **LED infrarouge** sera finalement disposée au bout d'un cable jack afin de pouvoir être deportée de manière discrète au devant de l'ampli.  
+Je peux maintenant contrôler mon ampli depuis mon tableau de bord **[Home Assistant](https://www.home-assistant.io)** ou bien directement depuis la plateforme Google Home !
+
+###
+
+>#### Outils logiciels
+>
+>- **Solidworks**
+>- **[KiCad](https://www.kicad.org)**
+>- **[FlatCam](http://flatcam.org/manual/introduction.html)**
+>- **[Snapmaker Luban](https://snapmaker.com/snapmaker-luban)**
+>- **VSCode**
+>- **SuperSlicer**
+
+---
+
+>#### Technologies
+>
+>- **[Impression 3D](https://makerspace-amiens.fr/pages/machines/)**
+>- **[CNC Snapmaker 2.0 A350T](https://makerspace-amiens.fr/pages/machines/)**
