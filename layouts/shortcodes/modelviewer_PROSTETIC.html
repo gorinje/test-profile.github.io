@@ -1,0 +1,136 @@
+<style>
+    html {
+        height: 100%;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    model-viewer {
+        width: 100%;
+        height: 90%;
+        background-color: #ffffff;
+    }
+
+
+    .progress-bar {
+        display: block;
+        width: 33%;
+        height: 10%;
+        max-height: 2%;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate3d(-50%, -50%, 0);
+        border-radius: 25px;
+        box-shadow: 0px 3px 10px 3px rgba(0, 0, 0, 0.5), 0px 0px 5px 1px rgba(0, 0, 0, 0.6);
+        border: 1px solid rgba(255, 255, 255, 0.9);
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .progress-bar.hide {
+        visibility: hidden;
+        transition: visibility 0.3s;
+    }
+
+    .update-bar {
+        background-color: rgba(255, 255, 255, 0.9);
+        width: 0%;
+        height: 100%;
+        border-radius: 25px;
+        float: left;
+        transition: width 0.3s;
+    }
+
+    model-viewer {
+        width: 100%;
+        height: 600px;
+    }
+
+    .HotspotAnnotation {
+        background: rgb(255, 255, 255);
+        border-radius: 4px;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 4px;
+        color: rgba(0, 0, 0, 0.8);
+        display: block;
+        font-family: Futura, "Helvetica Neue", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        left: calc(100% + 1em);
+        max-width: 128px;
+        overflow-wrap: normal;
+        padding: 0.5em 1em;
+        position: absolute;
+        top: 50%;
+        width: max-content;
+    }
+
+    .Hotspot {
+        --min-hotspot-opacity: 50;
+        background: rgb(255, 255, 255);
+        border-radius: 32px;
+        border: 0px;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 4px;
+        box-sizing: border-box;
+        cursor: pointer;
+        height: 24px;
+        padding: 8px;
+        position: relative;
+        transition: opacity 0.3s ease 0s;
+        width: 24px;
+    }
+
+    #lazy-load-poster {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-image: url("../../img/portfolio/Prostetic/poster.webp");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    #button-load {
+        background-image: url("../../img/ic_get_app_white_24dp.svg");
+        background-repeat: no-repeat;
+        background-size: 24px 24px;
+        background-position: 6% 50%;
+        background-color: #000;
+        color: white;
+        cursor: pointer;
+        border-radius: 6px;
+        display: inline-block;
+        padding: 10px 18px 9px 40px;
+        font-weight: 500;
+        box-shadow: 0 0 8px rgba(0, 0, 0, .2), 0 0 4px rgba(0, 0, 0, .25);
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate3d(-50%, -50%, 0);
+        z-index: 100;
+    }
+</style>
+
+<model-viewer id="lazy-load" reveal="manual" src="/models/PROTHESE.glb" ar ar-modes="webxr scene-viewer quick-look"
+    camera-controls poster="poster.webp" shadow-intensity="0.63" animation-name="ArmatureAction.002" autoplay
+    shadow-softness="0.83" camera-orbit="-515deg 99.88deg 136.1m" field-of-view="30deg" auto-rotate exposure="1.36">
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+
+    <div id="lazy-load-poster" slot="poster"></div>
+    <div id="button-load" slot="poster">Vue 3D</div>
+</model-viewer>
+
+<script>
+
+    document.querySelector('#button-load').addEventListener('click',
+        () => document.querySelector('#lazy-load').dismissPoster());
+
+</script>
