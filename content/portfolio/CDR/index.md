@@ -9,6 +9,11 @@ weight = -1
 Un évènement exceptionnel, un cahier des charges stricte et 6 mois de création !
 
 <!--more-->
+
+---
+
+## Présentation
+
 {{< carousel items="1" height="500" unit="px" duration="3000" data="CDR_Carousel" >}}
 
 ---
@@ -23,7 +28,7 @@ Cette compétition annuelle est le plus grand rassemblement d'école d'ingénieu
 
 ---
 
-### Présentation vidéo
+### Pitch vidéo
 
 {{< youtube h137741JeEo >}}
 
