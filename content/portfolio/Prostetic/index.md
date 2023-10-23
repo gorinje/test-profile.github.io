@@ -37,8 +37,8 @@ Bien sûr, il faut un peu d'imagination, mais cela est plus clair lorsque que l'
 
 ## Réalisation
 
-Plusieurs itération ont été nécessaire pour s'adapter au mieux au doigt d'Adrien.  
-Ce processus à été acceleré grâce à l'impression 3D. La prothèse sera finalement imprimée en résine afin de garantir un confort et un aspect ésthetique idéal.
+Plusieurs itérations ont été nécessaires pour s'adapter au mieux au doigt d'Adrien.  
+Ce processus à été acceleré grâce à l'impression 3D. La prothèse sera finalement imprimée en résine par confort et aspect ésthetique.
 
 Etant donné que je ne m'étais encore jamais penché sur des problèmatique d'ingénieurie mécanique, ce projet m'a beaucoup appris !
 
