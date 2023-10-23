@@ -14,7 +14,7 @@ Un évènement exceptionnel, un cahier des charges stricte et 6 mois de créatio
 
 ## Présentation
 
-{{< carousel items="1" height="60" unit="%" duration="3000" data="CDR_Carousel" >}}
+{{< carousel items="1" height="75" unit="%" duration="3000" data="CDR_Carousel" >}}
 
 ---
 
