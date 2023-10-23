@@ -14,7 +14,7 @@ Un évènement exceptionnel, un cahier des charges stricte et 6 mois de créatio
 
 ## Présentation
 
-{{< carousel items="1" height="500" unit="px" duration="3000" data="CDR_Carousel" >}}
+{{< carousel items="1" height="60" unit="%" duration="3000" data="CDR_Carousel" >}}
 
 ---
 
@@ -61,7 +61,7 @@ Cette année encore nous participons à l'évènement avec pour objectif **l'am�
 >#### Outils logiciels
 >
 >- **Solidworks**
->- **KiCad**
+>- **[KiCad](https://www.kicad.org)**
 >- **VSCode**
 >- **SuperSlicer**
 
@@ -69,7 +69,5 @@ Cette année encore nous participons à l'évènement avec pour objectif **l'am�
 
 >#### Technologies
 >
->- **Impression 3D**
->- **Découpe laser**
-
-{{< pages_nav >}}
+>- **[Impression 3D](https://makerspace-amiens.fr/pages/machines/)**
+>- **[Découpe laser](https://makerspace-amiens.fr/pages/machines/)**
