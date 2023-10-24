@@ -4,7 +4,7 @@ image = "img/portfolio/actemium.png"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Stage chez Actemium"
-weight = 4
+weight = 6
 +++
 
 Stage de découverte en 2018

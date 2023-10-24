@@ -46,14 +46,14 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Créations"
-  url = "portfolio/"
+    [[params.navlinks]]
+  name = "Qui suis-je ?"
+  url = "about/"
   home = true
 
   [[params.navlinks]]
-  name = "Qui suis-je ?"
-  url = "about/"
+  name = "Projets"
+  url = "portfolio/"
 
   [[params.navlinks]]
   name = "Contact"

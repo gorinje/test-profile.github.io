@@ -3,7 +3,7 @@ draft = false
 image = "img/portfolio/IR_REMOTE/Icon.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Télécommande IoT"
-weight = 1
+weight = 3
 +++
 
 Faire entrer un ampli vieillissant dans le 21ème siècle en créant une télécommande infrarouge connectée.

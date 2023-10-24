@@ -42,6 +42,8 @@ Ce processus a été accéléré grâce à l'impression 3D. La prothèse sera fi
 
 {{< vid_PROSTETIC >}}
 
+---
+
 Étant donné que je ne m'étais encore jamais penché sur des problématiques d'ingénierie mécanique, ce projet m'a beaucoup appris !
 
 ---
