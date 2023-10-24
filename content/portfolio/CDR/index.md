@@ -6,7 +6,7 @@ title = "Coupe de France de Robotique"
 weight = -1
 +++
 
-Un évènement exceptionnel, un cahier des charges stricte et 6 mois de création !
+Un événement exceptionnel, un cahier des charges strict et 6 mois de création !
 
 <!--more-->
 
@@ -22,9 +22,9 @@ Un évènement exceptionnel, un cahier des charges stricte et 6 mois de créatio
 
 ---
 
-Cette compétition annuelle est le plus grand rassemblement d'école d'ingénieur d'Europe.  
+Cette compétition annuelle est le plus grand rassemblement d'écoles d'ingénieurs d'Europe.  
 **L'objectif** : Concevoir et réaliser un **robot autonome** capable d'effectuer des tâches sur un plateau de jeu.
-**En 2023**, j'ai eu l'opportunité de monter une équipe dans le cadre de  l'association étudiante **[Unimakers Amiens](https://unimakers.github.io)**, dont j'assurais la co-direction. Mes missions étaient la recherche de sponsors, la **conception mécanique** ainsi qu'une partie de la **conception électronique**.
+**En 2023**, j'ai eu l'opportunité de monter une équipe dans le cadre de l'association étudiante **[Unimakers Amiens](https://unimakers.github.io)**, dont j'assurais la co-direction. Mes missions étaient la recherche de sponsors, la **conception mécanique** ainsi qu'une partie de la **conception électronique**.
 
 ---
 
@@ -34,7 +34,7 @@ Cette compétition annuelle est le plus grand rassemblement d'école d'ingénieu
 
 ---
 
-Cette vidéo est un **support de communication** que j'ai réalisé afin d'expliquer le projet à de potentiels sponsors.
+Cette vidéo est un **support de communication** que j'ai réalisé afin d'expliquer le projet à d'éventuels sponsors.
 
 ---
 
@@ -45,19 +45,19 @@ Cette vidéo est un **support de communication** que j'ai réalisé afin d'expli
 ---
 
 ### Aperçu
-  
+
 {{< modelviewer_CDR >}}
 
 ---
 
-Cette éxperience nous a énormement appris, tant techniquement qu'humainement. La coupe est aussi et surtout un évènement **convivial** et **bienveillant** tourné sur l'**entraide** et le **partage**, en phase avec la **philosophie des Makers** et le **mouvement Open Source**.
+Cette expérience nous a énormément appris, tant techniquement qu'humainement. La coupe est aussi et surtout un événement **convivial** et **bienveillant** tourné vers l'**entraide** et le **partage**, en phase avec la **philosophie des Makers** et le **mouvement Open Source**.
 
-Point de vue technique, pour les phases de **conception**, **prototypage** et **réalisation**, nous avons eu la chance d'avoir accés aux outils et ressources du **[MakerSpace](https://makerspace-amiens.fr)** de notre école.
+Du point de vue technique, pour les phases de **conception**, **prototypage** et **réalisation**, nous avons eu la chance d'avoir accès aux outils et ressources du **[MakerSpace](https://makerspace-amiens.fr)** de notre école.
 
-Cette année encore nous participons à l'évènement avec pour objectif **l'amélioration de nos solutions techniques** et une **meilleure place dans le classement** général. L'an dernier, pour une première participation, nous sommes arrivés 40ème sur 80 équipes.
+Cette année encore, nous participons à l'événement avec pour objectif **l'amélioration de nos solutions techniques** et une **meilleure place dans le classement** général. L'an dernier, pour une première participation, nous sommes arrivés 40ème sur 80 équipes.
 
 ---
-  
+
 >#### Outils logiciels
 >
 >- **Solidworks**

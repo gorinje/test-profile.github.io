@@ -816,7 +816,7 @@ MAIN PORTFOLIO SLIDER
 }
 
 #main-slider .owl-wrapper-outer {
-  box-shadow: 0 1px 5px #ccc;
+  box-shadow: 0 1px 5px #efefef;
 }
 
 #main-slider .owl-controls .owl-buttons {
@@ -990,7 +990,7 @@ a:active {
   background: #fff;
   margin-bottom: 30px;
   position: relative;
-  box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #efefef;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -1093,7 +1093,7 @@ a:active {
   display: block;
   position: relative;
   min-height: 100px;
-  background: #ccc;
+  background: #efefef;
 }
 
 .box-masonry .box-masonry-image.with-hover-overlay:before {

@@ -12,7 +12,25 @@ Stage de découverte en 2018
 
 ---
 
-Cette période de stage, en classe de seconde, m'a permis de découvrir le monde du travail et de m'ouvrir à la thématique qui sera, plus tard, au coeur de mes études : l'automatisme industriel.  
-Voici mon rapport de stage sous forme de site internet. Etant donné l'ancienneté du site, certains élèments ne fonctionnent plus, comme par exemple la vidéo de présentation de l'entreprise, qui a depuis été supprimée.
+### Présentation
+
+Cette période de stage, en classe de seconde, m'a permis de découvrir le monde du travail et de m'ouvrir à la thématique qui sera, plus tard, au cœur de mes études : **l'automatisme industriel**.
+
+---
+
+### Rapport de stage
+
+Voici mon **rapport de stage** sous forme de **[site internet](https://rapport-remilacombe.jimdofree.com)**. Étant donné l'ancienneté du site, certains éléments ne fonctionnent plus, comme par exemple la vidéo de présentation de l'entreprise, qui a depuis été supprimée.
+
+---
 
 {{< actemium >}}
+
+---
+
+###
+
+>#### Outils logiciels
+>
+>- **Grafcet**
+>- **Ladder**
