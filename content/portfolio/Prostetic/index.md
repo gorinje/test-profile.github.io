@@ -25,7 +25,7 @@ Un de mes amis d'école d'ingénieur, Adrien, a perdu la dernière phalange de s
 
 Après une phase de mesure, j'ai pris de **nombreuses photos**, qui me serviront, plus tard, de **références pour la conception 3D**.
 Le plus gros défi pour moi a été d'imaginer un **assemblage mécanique compact** et **élégant** permettant d'animer la phalange synthétique.
-Suite à pas mal de recherches, c'est un mécanisme à **4 barres croisées** que j'ai opté :
+Suite à pas mal de recherches, c'est pour un mécanisme à **4 barres croisées** que j'ai opté :
 
 ![Animation 4-bar mechanism](/img/portfolio/Prostetic/X4bar.gif)
 
