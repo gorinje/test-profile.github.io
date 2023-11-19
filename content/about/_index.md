@@ -13,6 +13,8 @@ La nécessité de **m'exprimer artistiquement** est aussi un trait qui me défin
 
 J'ai à cœur, à travers mes projets personnels, d'explorer la **convergence** de ces deux dimensions : **l'art et la technique**.
 
+Actuellement étudiant à Amiens, en école d'ingénieurs dans le domaine de l'industrie et de la robotique, j'aspire à **donner du sens à mon futur métier** en obtenant des clés concrètes pour porter des projets **éco-responsables** et **éthiques** en réponse directe aux problématiques d'aujourd'hui et de demain.
+
 ### Curriculum
 
 {{< CV >}}
